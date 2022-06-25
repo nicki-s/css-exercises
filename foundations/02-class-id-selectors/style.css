@@ -1,0 +1,20 @@
+.odd-num,
+.odd-num-special {
+    background-color: rgb(205, 92, 92);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.odd-num-special {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
